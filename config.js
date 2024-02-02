@@ -7,20 +7,17 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['918360234087', 'WHITE', true], 
-  ['233208179431', 'Abraham Dwamena', true],
-  ['923184070915', '𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿 -(𝘼𝙝𝙢𝙢𝙞)', true], 
-  ['94789481495', '𝙼𝚉𝙽 𝙺𝙸𝙽𝙶 ⚡', true],
-  ['233533763772', 'Abraham Dwamena2', true],
-  ['233531910067', 'Abraham Dwamena3', true],
-  
-] //Number of owners
+  ['256763743987', 'Hitman vbjx999', true], 
+  ['233208179431', '😈😎Hitman Vibekiller 😎😈', true], 
+  ['256 740 254268', 'ÇRŸŠTÅŁ THÜG', true],
+  ['263 77 969 4908', '𝕊𝕒𝕧𝕒𝕘𝕖 𝕤𝕠𝕦𝕝', true],
+   //Number of owner 
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['923184070915', '94789481495', '923184474176','233531910067','233208179431'] 
-global.prems = ['923184070915','233208179431','94789481495', '918360234087','233531910067']
-global.allowed = ['923184070915', '233208179431', '94789481495', '918360234087','233531910067']
+global.mods = ['923184070915', '233208179431', '923184474176','233531910067','233208179431'] 
+global.prems = ['256763743987','256708486009','263 77 969 4908', '256 740 254268']
+global.allowed = ['256763743987', '256798486009', '263 77 969 4908', '256 740 254268']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -55,10 +52,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'XLICON-V2'
+global.botname = 'Hitman Vibekiller'
 global.premium = 'true'
 global.packname = 'XLICON TEAM' 
-global.author = '@XLICON-V2' 
+global.author = 'Made by Hitman Vibekiller' 
 global.menuvid = 'https://telegra.ph/file/325630f66abc968eda8e2.mp4'
 global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaE8GbCDzgTILE7OtC3e\n' 
 global.dygp = 'https://chat.whatsapp.com/BfH0KLkICn2BjmGFMRcGMW'
