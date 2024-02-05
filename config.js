@@ -6,18 +6,17 @@ import fetch from 'node-fetch'
 import axios from 'axios'
 
 
-global.owner = [
-  ['256763743987', 'Hitman vbjx999', true], 
-  ['233208179431', '😈😎Hitman Vibekiller 😎😈', true], 
+global.owner = [ 
+  ['256708486009', '😈😎Hitman Vibekiller 😎😈', true], 
   ['256 740 254268', 'ÇRŸŠTÅŁ THÜG', true],
-  ['263 77 969 4908', '𝕊𝕒𝕧𝕒𝕘𝕖 𝕤𝕠𝕦𝕝', true],
+  
    //Number of owner 
 
 //global.pairingNumber = "" //put your bot number here
 
 global.mods = ['923184070915', '233208179431', '923184474176','233531910067','233208179431'] 
-global.prems = ['256763743987','256708486009','263 77 969 4908', '256 740 254268']
-global.allowed = ['256763743987', '256798486009', '263 77 969 4908', '256 740 254268']
+global.prems = ['256708486009', '256 740 254268']
+global.allowed = ['256798486009', '256 740 254268']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -56,7 +55,7 @@ global.botname = 'Hitman Vibekiller'
 global.premium = 'true'
 global.packname = 'XLICON TEAM' 
 global.author = 'Made by Hitman Vibekiller' 
-global.menuvid = 'https://telegra.ph/file/325630f66abc968eda8e2.mp4'
+global.menuvid = 'https://telegra.ph/file/fa26771e916d0c261c23b.mp4'
 global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaE8GbCDzgTILE7OtC3e\n' 
 global.dygp = 'https://chat.whatsapp.com/BfH0KLkICn2BjmGFMRcGMW'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
