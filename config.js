@@ -9,14 +9,15 @@ import axios from 'axios'
 global.owner = [ 
   ['256708486009', '😈😎Hitman Vibekiller 😎😈', true], 
   ['256 740 254268', 'ÇRŸŠTÅŁ THÜG', true],
+  ['256763743987', 'Hitman Lost Soul', true],
   
    //Number of owner 
 
 //global.pairingNumber = "" //put your bot number here
 
 global.mods = ['923184070915', '233208179431', '923184474176','233531910067','233208179431'] 
-global.prems = ['256708486009', '256 740 254268']
-global.allowed = ['256798486009', '256 740 254268']
+global.prems = ['256708486009', '256 740 254268', '256763743987']
+global.allowed = ['256798486009', '256 740 254268', '256763743987']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -51,7 +52,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'Hitman Vibekiller'
+global.botname = 'HITMAN'
 global.premium = 'true'
 global.packname = 'XLICON TEAM' 
 global.author = 'Made by Hitman Vibekiller' 
