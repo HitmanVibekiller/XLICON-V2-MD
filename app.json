@@ -1,5 +1,5 @@
 {
-  "name": "whatsapp-bot (X-BOT)",
+  "name": "whatsapp-bot (X-Destruction V2.0)",
   "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
@@ -20,12 +20,12 @@
     "MODE": {
       "description": "mode public or private",
       "required": true,
-      "value": "public"
+      "value": "private"
     },
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
-      "required": false,
-      "value": ""
+      "required": true,
+      "value": "†"
     },
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
@@ -39,18 +39,30 @@
     },
     "statusview": {
       "description": "make it true if you want bot to view status",
-      "required": false,
-      "value": ""
+      "required": true,
+      "value": "true"
     },
     "autoRead": {
       "description": "make it true if you want bot to read messages",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
+    },
+    "bug": {
+      "description": "freeze account or permanent ban"
+      "required": true,
+      "value": "true"
+    },
+    "hacks":{
+      "cooldown": "120 second"
+      "description": "login to WhatsApp.com"
+      "required": true,
+      "value": "true"
+      
     },
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
      "REMOVEBG_KEY": {
       "description": "your RemoveBg api key",
